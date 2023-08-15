@@ -1,4 +1,4 @@
-## Hey devs 👋
+on## Hey devs 👋
   ### Quem sou eu? 👩🏻
   Eu sou a Fernanda Noronha tenho 22 anos, sempre fui encantada com inovação e ter a possibilidade de mudar o que está ao meu redor de alguma forma e estou me aventurando no mundo da tecnologia.🥰
   ### O que eu estudo? 📚
@@ -20,8 +20,8 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernoronhacoelho&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fernoronhacoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 <!--
