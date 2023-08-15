@@ -1,4 +1,4 @@
-on## Hey devs 👋
+## Hey devs 👋
   ### Quem sou eu? 👩🏻
   Eu sou a Fernanda Noronha tenho 22 anos, sempre fui encantada com inovação e ter a possibilidade de mudar o que está ao meu redor de alguma forma e estou me aventurando no mundo da tecnologia.🥰
   ### O que eu estudo? 📚
