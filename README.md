@@ -4,7 +4,7 @@
   ### O que eu estudo? 📚
   Atualmente, eu estudo Engenharia Aeroespacial na UnB 🚀 e Desenvolvimento Web na Ampli 👩🏻‍💻
   ### O que eu faço?
-  Eu iniciei meu caminho na tecnologia estagiando na área de análise de requisitos de software.
+  Eu iniciei meu caminho na tecnologia estagiando na área de análise de requisitos de software e segui para Scrum Master, mas busco me alocar como desenvolvedora.
   ### O que eu estou aprendendo?
   Nessa minha trilha para me tornar dev eu estou me aprimorando nas seguintes tecnologias:
 
