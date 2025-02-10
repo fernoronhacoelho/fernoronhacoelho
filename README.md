@@ -1,10 +1,10 @@
 ## Hey devs 👋
   ### Quem sou eu? 👩🏻
-  Eu sou a Fernanda Noronha tenho 23 anos, sempre fui encantada com inovação e ter a possibilidade de mudar o que está ao meu redor de alguma forma e estou me aventurando no mundo da tecnologia.🥰
+  Eu sou a Fernanda Noronha tenho 24 anos, sempre fui encantada com inovação e ter a possibilidade de mudar o que está ao meu redor de alguma forma e estou me aventurando no mundo da tecnologia.🥰
   ### O que eu estudo? 📚
-  Atualmente, eu estudo Engenharia Aeroespacial na UnB 🚀 e Desenvolvimento Web na Ampli 👩🏻‍💻
+  Atualmente, eu estudo Engenharia Aeroespacial na UnB 🚀 e sou formada em Desenvolvimento Web na Ampli 👩🏻‍💻 com pós em Arquitetura de Software e MBA em Gerenciamento de Projetos de TI.
   ### O que eu faço?
-  Eu iniciei meu caminho na tecnologia estagiando na área de análise de requisitos de software e segui para Scrum Master, mas busco me alocar como desenvolvedora.
+  Eu iniciei meu caminho na tecnologia estagiando na área de análise de requisitos de software e segui para Scrum Master e agora agilista, mas busco me alocar como desenvolvedora.
   ### O que eu estou aprendendo?
   Nessa minha trilha para me tornar dev eu estou me aprimorando nas seguintes tecnologias:
 
