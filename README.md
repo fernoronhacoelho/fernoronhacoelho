@@ -2,7 +2,7 @@
   ### Quem sou eu? 👩🏻
   Eu sou a Fernanda Noronha tenho 24 anos, sempre fui encantada com inovação e ter a possibilidade de mudar o que está ao meu redor de alguma forma e estou me aventurando no mundo da tecnologia.🥰
   ### O que eu estudo? 📚
-  Engenheira Aeroespacial na UnB 🚀 e formada em Desenvolvimento Web na Ampli 👩🏻‍💻 com pós em Arquitetura de Software, MBA em Gerenciamento de Projetos de TI e Engenharia de Software.
+  Engenheira Aeroespacial pela UnB 🚀 e formada em Desenvolvimento Web na Ampli 👩🏻‍💻 com pós em Arquitetura de Software, MBA em Gerenciamento de Projetos de TI e Engenharia de Software.
   ### O que eu faço?
   Eu iniciei meu caminho na tecnologia estagiando na área de análise de requisitos de software e segui para Scrum Master, agilista e agora conduzo a estruturação de um PMO.
   ### O que eu estou aprendendo?
